@@ -50,17 +50,11 @@ body{
     justify-content: space-between;
 }
 
-.homesection .content img {
-    max-width: 50%; /* Set maximum width for the images */
-}
+/* .homesection .content img {
+    max-width: 50%; /* Set maximum width for the images 
+} 
+*/
 
-.left-img {
-    order: -6; /* Moves the left image to the left side */
-}
-
-.right-img {
-    order: 6; /* Moves the right image to the right side */
-}
 
 
 
